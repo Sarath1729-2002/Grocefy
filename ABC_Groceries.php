@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
     
-    <link rel="stylesheet" href="shop1.css">
+    <link rel="stylesheet" href="CSS/shop1.css">
     <?php
         session_start();
         if(!is_array($_SESSION['pcode'])) {
