@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(rgba(255, 98, 0, 0.879),rgba(255, 251, 0, 0.956));
+    color:whitesmoke;
+
+}
+
+.about {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.about h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.about h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.eff{
+    margin: 100px auto;
+    width: 80%;
+    height: 100%;
+    background-image: linear-gradient(rgba(24, 18, 13, 0.452),rgba(24, 18, 13, 0.452)),url("Images/colimg3.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.eff h3{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.eff p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.purd{
+    margin: 100px auto;
+    width: 80%;
+    height: 100%;
+    background-image: linear-gradient(rgba(24, 18, 13, 0.452),rgba(24, 18, 13, 0.452)),url("Images/colimg2.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.purd h3{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.purd p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.ben{
+    margin: 100px auto;
+    width: 80%;
+    height: 100%;
+    background-image: linear-gradient(rgba(24, 18, 13, 0.452),rgba(24, 18, 13, 0.452)),url("Images/cus.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.ben h3{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.ben p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}

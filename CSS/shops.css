@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(rgba(1, 255, 18, 0.907),rgba(0, 255, 98, 0.951));
+    color:whitesmoke;
+
+}
+
+.shops {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.shops h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.shops h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.regbtn{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.regbtn:hover{
+    border: 1px rgb(255, 255, 255);
+    background: rgb(15, 7, 3);
+    transition: 1s;
+
+
+}
+
+.s1{
+    margin: 100px auto;
+    width: 80%;
+    height: 100%;
+    background-image: linear-gradient(rgba(24, 18, 13, 0.452),rgba(24, 18, 13, 0.452)),url("Images/shop1.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.s1 h3{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.s1 p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.s2{
+    margin: 100px auto;
+    width: 80%;
+    height: 100%;
+    background-image: linear-gradient(rgba(24, 18, 13, 0.452),rgba(24, 18, 13, 0.452)),url("Images/shop2.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.s2 h3{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.s2 p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.s3{
+    margin: 100px auto;
+    width: 80%;
+    height: 100%;
+    background-image: linear-gradient(rgba(24, 18, 13, 0.452),rgba(24, 18, 13, 0.452)),url("Images/shop4.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.s3 h3{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
+.s3 p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+
